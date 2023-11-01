@@ -4,6 +4,9 @@
       "path": "BaseExtension"
     },
     {
+      "path": "BaseExtension.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
