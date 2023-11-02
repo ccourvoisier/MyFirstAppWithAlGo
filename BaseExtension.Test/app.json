@@ -30,12 +30,6 @@
       "version": "1.0.0.0"
     },
     {
-      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
-      "publisher": "Microsoft",
-      "name": "Library Assert",
-      "version": "1.0.0.0"
-    },
-    {
       "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
       "publisher": "Microsoft",
       "name": "Test Runner",
