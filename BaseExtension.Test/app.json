@@ -12,6 +12,12 @@
   "logo": "",
   "dependencies": [
     {
+      "publisher": "Ccourvoisier",
+      "name": "BaseExtension",
+      "id": "ce7a312a-8be1-49c4-a875-1591171f8d23",
+      "version": "1.0.0.0"
+    },
+    {
       "publisher": "Microsoft",
       "name": "Library Assert",
       "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
